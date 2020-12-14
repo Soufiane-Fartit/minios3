@@ -1,6 +1,5 @@
 # minios3
-s3 compatible storage
-
+MinIO : an s3 compatible storage, as a docker image to be hosted (here on Heroku), and be used like AWS S3.
 
 
 > Build Docker Image
